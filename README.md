@@ -1,7 +1,7 @@
 # Hi, I'm Jose Beato
 
 ### Network Automation Engineer & Infrastructure Lead
-I am an infrastructure professional focused on bridging the gap between traditional networking and modern automation. Currently on a **60-Day Python Intensive** to build enterprise-grade automation tools and DevSecOps workflows.
+I am an infrastructure professional focused on bridging the gap between traditional networking and modern automation. Currently building enterprise-grade automation tools and DevSecOps workflows.
 
 ---
 
