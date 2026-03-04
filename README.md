@@ -1,14 +1,14 @@
-# Hi, I'm Jose 👋
+# Hi, I'm Jose Beato
 
-### 🚀 Network Automation Engineer & Infrastructure Lead
+### Network Automation Engineer & Infrastructure Lead
 I am an infrastructure professional focused on bridging the gap between traditional networking and modern automation. Currently on a **60-Day Python Intensive** to build enterprise-grade automation tools and DevSecOps workflows.
 
 ---
 
-## 🛠️ My 60-Day Automation Roadmap
+## My Automation Roadmap
 I am documenting my journey from scripting to full-stack automation. Here is what I've built so far:
 
-### 🏛️ Featured Repositories
+### Featured Repositories
 
 | Project | Focus Area | Key Technology |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ I am documenting my journey from scripting to full-stack automation. Here is wha
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 * **Languages:** Python 3.12+, SQL
 * **Automation:** Requests, Python-Decouple, CSV/JSON Processing
 * **Infrastructure:** Network Inventory Modeling, SD-WAN Migration Logic
@@ -34,7 +34,7 @@ I am documenting my journey from scripting to full-stack automation. Here is wha
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 * **Goal:** Reaching Python proficiency for enterprise network automation.
 * **Currently Learning:** Relational database design and API integration.
 
