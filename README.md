@@ -1,41 +1,41 @@
 # Hi, I'm Jose Beato
 
-### Network Automation Engineer & Infrastructure Lead
-I am an infrastructure professional focused on bridging the gap between traditional networking and AI-Augmented Operations (AIOps). I specialize in developing enterprise-grade automation tools that integrate Large Language Models (LLMs) with relational databases to create self-documenting, resilient, and intelligent network ecosystems.
+### Network Automation & AIOps Engineer
+I am an infrastructure professional focused on bridging the gap between traditional networking and **AI-Augmented Operations (AIOps)**. I specialize in developing enterprise-grade automation tools that integrate **Large Language Models (LLMs)** with relational databases to create self-documenting, resilient, and intelligent network ecosystems.
 
 ---
 
-## My Automation Roadmap
-I am documenting my journey from scripting to full-stack automation. Here is what I've built so far:
+## 🛠️ The AIOps Transformation (60-Day Roadmap)
+I am currently documenting my transition from CLI-driven management to AI-driven orchestration.
 
-### Featured Repositories
+### 🏛️ Featured Repositories
 
-| Project | Focus Area | Key Technology |
+| Project | Focus Area | Technology Stack |
 | :--- | :--- | :--- |
-| [**net-inventory-db**](https://github.com/jbeato73/net-inventory-db) | Data Persistence | SQLite, CRUD, SQL Injection Protection |
-| [**secure-net-config**](https://github.com/jbeato73/secure-net-config) | Security | Python-Decouple, .env Management, DevSecOps |
-| [**bulk-site-validator**](https://github.com/jbeato73/bulk-site-validator) | Resilience | Error Logging, Batch Processing, Data Cleaning |
-| [**network-asset-manager**](https://github.com/jbeato73/network-asset-manager) | OOP | Class Modeling, Live API Interaction, State Mgmt |
+| [**ai-network-advisor**](https://github.com/jbeato73/ai-network-advisor) | **AIOps & LLMs** | Google GenAI (Gemini 2.0), JSON Schema, Python |
+| [**net-inventory-db**](https://github.com/jbeato73/net-inventory-db) | **Persistence** | SQLite, Relational Data Modeling, SQL |
+| [**secure-net-config**](https://github.com/jbeato73/secure-net-config) | **Security** | Python-Decouple, Secret Management, DevSecOps |
+| [**network-asset-manager**](https://github.com/jbeato73/network-asset-manager) | **OOP** | Object-Oriented Design, API Interaction, State Mgmt |
 
 ---
 
-## Tech Stack & Tools
-* **Languages:** Python 3.12+, SQL
-* **Automation:** Requests, Python-Decouple, CSV/JSON Processing
-* **Infrastructure:** Network Inventory Modeling, SD-WAN Migration Logic
-* **Environment:** UV (Package Management), Git/GitHub, MacOS/Linux
+## 🧠 Key Automation Competencies
+* **AI Orchestration:** Implementing `application/json` response filtering via LLMs for machine-readable diagnostics.
+* **Closed-Loop Remediation:** Linking AI diagnostic engines to SQL databases for automated incident logging and auditing.
+* **Modern Tooling:** High proficiency in **UV** (package management), **Git/GitHub** workflows, and **Python 3.12+**.
+* **Data Persistence:** Designing relational schemas to migrate volatile infrastructure data into permanent storage.
 
 ---
 
-## 📈 Recent Milestones
-- ✅ **Day 11:** Successfully implemented SQL persistence for infrastructure tracking.
-- ✅ **Day 10:** Standardized "Secret Management" to ensure zero credential leaks.
-- ✅ **Day 9:** Built a resilient batch auditor for global site migrations.
+## 📈 Recent AIOps Milestones
+- ✅ **Day 13:** Automated JSON-to-Ticket generation for incident management.
+- ✅ **Day 12:** Successfully refactored legacy diagnostics to the **Gemini 2.0 Flash** SDK.
+- ✅ **Day 11:** Implemented SQL persistence to move from RAM-based scripts to Disk-based databases.
 
 ---
 
-## Let's Connect
-* **Goal:** Reaching Python proficiency for enterprise network automation.
-* **Currently Learning:** Relational database design and API integration.
+## 📫 Let's Connect
+* **Current Objective:** Mastering Structured Output and Self-Healing network workflows.
+* **Focus:** Reducing MTTR through intelligent, LLM-driven infrastructure diagnostics.
 
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbeato73&show_icons=true&theme=radical)
