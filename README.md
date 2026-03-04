@@ -1,6 +1,6 @@
 # Hi, I'm Jose Beato
 
-### Network Automation & AIOps Engineer
+### 🚀 Network Automation & AIOps Engineer
 I am an infrastructure professional focused on bridging the gap between traditional networking and **AI-Augmented Operations (AIOps)**. I specialize in developing enterprise-grade automation tools that integrate **Large Language Models (LLMs)** with relational databases to create self-documenting, resilient, and intelligent network ecosystems.
 
 ---
