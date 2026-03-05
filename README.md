@@ -37,5 +37,3 @@ I am currently documenting my transition from CLI-driven management to AI-driven
 ## Let's Connect
 * **Current Objective:** Mastering Structured Output and Self-Healing network workflows.
 * **Focus:** Reducing MTTR through intelligent, LLM-driven infrastructure diagnostics.
-
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbeato73&show_icons=true&theme=radical)
