@@ -56,4 +56,3 @@ I am currently pivoting my AIOps automation skills toward **telecom fraud detect
 
 - 📍 New York Metro Area — Open to Hybrid / On-site
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-beato-5820798/)
-- 📧 jbeato73@gmail.com
